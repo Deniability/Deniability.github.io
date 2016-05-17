@@ -78,12 +78,16 @@
     color: #33CCFF;
 }
 
-#chat #main_avatar_room #main-user-list-room #avatar-list .chat-main .user-573b279485549737002ac7c4 .username
+#chat .chat-main .user-573b279485549737002ac7c4 .username,
+#chat .chat-main .user-573b279485549737002ac7c4 .username:hover,
+#chat .chat-main .user-573b279485549737002ac7c4 .username:visited
 {
     color: #FFD700 !important;
 }
 
-#chat #main_avatar_room #main-user-list-room #avatar-list .chat-main .user-573b4afa839e4d2300ae1d3a .username
+#chat .chat-main .user-573b4afa839e4d2300ae1d3a .username,
+#chat .chat-main .user-573b4afa839e4d2300ae1d3a .username:hover,
+#chat .chat-main .user-573b4afa839e4d2300ae1d3a .username:visited
 {
     color: #6b58a8 !important;
 }
