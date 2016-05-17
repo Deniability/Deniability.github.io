@@ -3,14 +3,14 @@
 #chat .chat-main .isOwner .username:hover,
 #chat .chat-main .isOwner .username:visited
 {
-    color: #e50505 !important;
+    color: #a90000 !important;
 }
 
 #chat .chat-main .isCo-owner .username,
 #chat .chat-main .isCo-owner .username:hover,
 #chat .chat-main .isCo-owner .username:visited
 {
-    color: #FF007F !important;
+    color: #add0e0e !important;
 }
 
 #chat .chat-main .isManager .username,
@@ -45,13 +45,13 @@
 #main_avatar_room #main-user-list-room #avatar-list li.owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.owner p.username::after
 {
-    color: #e50505;
+    color: #a90000;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username::after
 {
-    color: #FF007F;
+    color: #dd0e0e;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username,
