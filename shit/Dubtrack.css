@@ -3,14 +3,14 @@
 #chat .chat-main .isOwner .username:hover,
 #chat .chat-main .isOwner .username:visited
 {
-    color: #a90000 !important;
+    color: #ba0f0f !important;
 }
 
 #chat .chat-main .isCo-owner .username,
 #chat .chat-main .isCo-owner .username:hover,
 #chat .chat-main .isCo-owner .username:visited
 {
-    color: #add0e0e !important;
+    color: #ba0f0f !important;
 }
 
 #chat .chat-main .isManager .username,
@@ -45,13 +45,13 @@
 #main_avatar_room #main-user-list-room #avatar-list li.owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.owner p.username::after
 {
-    color: #a90000;
+    color: #ba0f0f;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username::after
 {
-    color: #dd0e0e;
+    color: #ba0f0f;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username,
@@ -78,7 +78,12 @@
     color: #33CCFF;
 }
 
-#chat .chat-main .user-573b4afa839e4d2300ae1d3a .username
+#chat #main_avatar_room #main-user-list-room #avatar-list .chat-main .user-573b279485549737002ac7c4 .username
+{
+    color: #FFD700 !important;
+}
+
+#chat #main_avatar_room #main-user-list-room #avatar-list .chat-main .user-573b4afa839e4d2300ae1d3a .username
 {
     color: #6b58a8 !important;
 }
