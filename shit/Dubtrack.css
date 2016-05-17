@@ -3,7 +3,7 @@
 #chat .chat-main .isOwner .username:hover,
 #chat .chat-main .isOwner .username:visited
 {
-    color: #FF38CB !important;
+    color: #e50505 !important;
 }
 
 #chat .chat-main .isCo-owner .username,
@@ -45,7 +45,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.owner p.username::after
 {
-    color: #FF38CB;
+    color: #e50505;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username,
@@ -78,58 +78,9 @@
     color: #33CCFF;
 }
 
-/* badges */
-#chat .chat-main .isOwner .username::before
+#chat .chat-main .user-573b4afa839e4d2300ae1d3a .username
 {
-    content:       url(https://nightbloo.github.io/plug/icons/hostpink.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isCo-owner .username::before
-{
-    content:       url(https://nightbloo.github.io/plug/icons/hostpink.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isManager .username::before
-{
-    content:       url(https://nightbloo.github.io/plug/icons/manager.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isMod .username::before
-{
-    content:       url(https://nightbloo.github.io/plug/icons/bouncer.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isVip .username::before
-{
-    content:       url(https://nightbloo.github.io/plug/icons/vip.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isResident-dj .username::before
-{
-    content:       url(https://nightbloo.github.io/plug/icons/rdj.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .user-56005297239f1303009c88c5 .username
-{
-    color: #4dc9ff !important;
+    color: #6b58a8 !important;
 }
 
 /* Emote sizes */
