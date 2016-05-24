@@ -77,19 +77,33 @@
 {
     color: #33CCFF;
 }
-
+/* me */
 #chat .chat-main .user-573b279485549737002ac7c4 .username,
 #chat .chat-main .user-573b279485549737002ac7c4 .username:hover,
 #chat .chat-main .user-573b279485549737002ac7c4 .username:visited
 {
     color: #FFD700 !important;
 }
-
+/* mel <3 */
 #chat .chat-main .user-573b4afa839e4d2300ae1d3a .username,
 #chat .chat-main .user-573b4afa839e4d2300ae1d3a .username:hover,
 #chat .chat-main .user-573b4afa839e4d2300ae1d3a .username:visited
 {
     color: #6b58a8 !important;
+}
+/* kj */
+#chat .chat-main .user-5736aa8d9ee0b413000d47c6 .username,
+#chat .chat-main .user-5736aa8d9ee0b413000d47c6 .username:hover,
+#chat .chat-main .user-5736aa8d9ee0b413000d47c6 .username:visited
+{
+    color: #ff0000 !important;
+}
+/* floffs */
+#chat .chat-main .user-5740d95362e8b3cb00deb1d7 .username,
+#chat .chat-main .user-5740d95362e8b3cb00deb1d7 .username:hover,
+#chat .chat-main .user-5740d95362e8b3cb00deb1d7 .username:visited
+{
+    color: #637c85 !important;
 }
 
 /* Emote sizes */
