@@ -84,6 +84,12 @@
 {
     color: #FFD700 !important;
 }
+
+#main_avatar_room #main-user-list-room #avatar-list li.user-573b279485549737002ac7c4 p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.user-573b279485549737002ac7c4 p.username::after
+{
+    color: #FFD700;
+}
 /* mel <3 */
 #chat .chat-main .user-573b4afa839e4d2300ae1d3a .username,
 #chat .chat-main .user-573b4afa839e4d2300ae1d3a .username:hover,
